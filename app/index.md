@@ -1,5 +1,8 @@
 # _Onlyrics_ Magazine
 
+
+# Last Month's Favorites
+
 Welcome to _Onlyrics_, the only place on the planet where your ears won't be disappointed!
 
 
@@ -9,7 +12,6 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 ### [Arctic Monkeys](/writer/arctic_monkeys.md) |
 
 [Fluorescent Adolescent](song/jan/fluorescent_adolescent.md)
-
 
 ### [Queen](writer/queen.md) | 
 
